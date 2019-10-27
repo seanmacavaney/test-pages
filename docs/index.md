@@ -15,13 +15,13 @@ _A Complete Neural Ad-Hoc Ranking Pipeline_
 
 If you use OpenNIR, please cite the following WSDM demonstration paper:
 
-```
 {% raw %}
+```
 @InProceedings{macavaney:wsdm2020-srank,
   author = {MacAvaney, Sean},
   title = {{OpenNIR}: A Complete Neural Ad-Hoc Ranking Pipeline},
   booktitle = {{WSDM} 2020},
   year = {2020}
 }
-{% endraw %}
 ```
+{% endraw %}
